@@ -1,7 +1,4 @@
 # jkk
 
-FFFF
-
-GHGGG
-HHHH
+`
 
